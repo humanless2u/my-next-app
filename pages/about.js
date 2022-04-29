@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import Layout from '../components/Layout'
 import styles from '../styles/About.module.css'
 
@@ -14,7 +13,7 @@ export default function About() {
             Here i'll write the about text
           </p>
         </main>
-    </div>
+      </div>
     </Layout>
   )
 }
